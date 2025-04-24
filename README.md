@@ -1,5 +1,8 @@
-# Olá, sou Beatriz dos Santos (@beatriz7227) // Hi, I’m Beatriz dos Santos (@beatriz7227)!
-## Estudo Sistemas de Informação na Universidade de São Paulo(USP) // I’m currently majoring in Information Systems at the University of São Paulo(USP)
+# ✨ Olá, sou Beatriz dos Santos (@beatriz7227) ✨
+# ✨ Hi, I’m Beatriz dos Santos (@beatriz7227)! ✨
+
+## Estudo Sistemas de Informação na Universidade de São Paulo(USP) 
+## I’m currently majoring in Information Systems at the University of São Paulo(USP)
 
 
 <!---
