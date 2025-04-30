@@ -1,4 +1,4 @@
-<img src="lo-fi-desktop-ihnv4uzas0gbzwk5.jpg" alt="ilustração de uma cidade" min-width="400px" max-width="400px" width="400px" vertical-align="top">
+<img src="lo-fi-desktop-ihnv4uzas0gbzwk5.jpg" alt="ilustracao de uma cidade" min-width="400px" max-width="400px" width="400px" vertical-align="top">
 
 ## ✨ Olá! Sou Beatriz dos Santos // 👋 Hi there! I'm Beatriz dos Santos!
 
