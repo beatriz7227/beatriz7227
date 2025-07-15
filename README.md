@@ -3,7 +3,7 @@
 ## ✨ Olá! Sou Beatriz dos Santos // 👋 Hi there! I'm Beatriz dos Santos!
 
 ## Sobre mim // About me:
-- Estudo Sistemas de Informação na Universidade de São Paulo(USP) // I’m currently majoring in Information Systems at the University of São Paulo(USP)
+- Estudo Sistemas de Informação na Universidade de São Paulo(USP) // I’m currently majoring in Information Systems at the University of São Paulo (USP)
 
 ## Linguagens:
 - Python;
