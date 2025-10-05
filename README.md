@@ -27,9 +27,8 @@ Estudante de Sistemas de Informação na USP. No momento, estou me aprofundando 
 
 ### 📈 Estatísticas do GitHub // GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=beatriz7227&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatriz7227&theme=dark" alt="GitHub Streak">
 </p>
 
 ---
